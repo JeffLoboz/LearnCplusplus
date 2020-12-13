@@ -36,4 +36,7 @@ https://www.programiz.com/cpp-programming/library-function
 
 # Why learn C++?
 1. Irreplaceability
- - With
+  - With the use of C++ in the development of modern games, operating systems, browsers, etc, C++ is here to stay.
+  - Many major companies like Adobe, Amazon, Google, and Facebook use C++.
+2. To learn the internal architecture of a computer
+  - C++ is a middle-level language so you will write code that interacts directly with the internal hardware of the computer. 
