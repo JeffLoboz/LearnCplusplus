@@ -1,2 +1,11 @@
-# LearnCplusplus
-C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
+https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
+
+https://www.programiz.com/cpp-programming/examples
+
+https://www.programiz.com/cpp-programming/library-function
+
+
+# C++ Programming
+- Statically-typed, multi-paradigm, general purpose middle-level programming language.
+- Many operating systems, system drivers, browsers, and games use C++ as core language.
+
