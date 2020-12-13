@@ -7,7 +7,7 @@ https://www.programiz.com/cpp-programming/library-function
 
 # About C++ Programming
 - Developed by Bjarne Stroustrup in 1979
-- Statically-typed, multi-paradigm, general purpose middle-level programming language.
+- Statically-typed, multi-paradigm, general purpose middle-level programming language based on C.
 - Many operating systems, system drivers, browsers, and games use C++ as core language.
 
 # Features of C++ Programming
@@ -18,3 +18,22 @@ https://www.programiz.com/cpp-programming/library-function
 ## Statically typed
 - It does not allow the compiler to make assumptions about the type of data.
 - EX: 10 is different from "10" and it must be declared explicitly. 
+- These are determined at compile-time, it helps the compiler catch errors and bugs before the execution of the program.
+
+## Multi-Paradigm programming language
+- C++ supports at least 7 different styles of programming and gives developers the freedom to choose as needed.
+- Unlike Java, you don't need to use objects to solve every task unless necessary.
+
+## Object-Oriented
+- C++ supports Object-Oriented programming, to provide a clear modular structure for programs.
+- You are able to divide these complex problems into smaller sets by creaing objects. 
+
+## Standard template library (STL)
+- The use of C++ can be further extended using the standard library it contains.
+- These libraries contain efficient algorithms that you can use while coding your own projects. 
+- This saves A LOT of programming effort, to remove re-coding simple common things. 
+
+
+# Why learn C++?
+1. Irreplaceability
+ - With
