@@ -5,7 +5,16 @@ https://www.programiz.com/cpp-programming/examples
 https://www.programiz.com/cpp-programming/library-function
 
 
-# C++ Programming
+# About C++ Programming
+- Developed by Bjarne Stroustrup in 1979
 - Statically-typed, multi-paradigm, general purpose middle-level programming language.
 - Many operating systems, system drivers, browsers, and games use C++ as core language.
 
+# Features of C++ Programming
+## Speed
+- C++ is an extended version of C, the C part is very low level. 
+- This offers a huge boost in speed that high-level languages like Python and Java CAN'T provide.
+
+## Statically typed
+- It does not allow the compiler to make assumptions about the type of data.
+- EX: 10 is different from "10" and it must be declared explicitly. 
