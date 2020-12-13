@@ -76,3 +76,6 @@ https://www.programiz.com/cpp-programming/library-function
 2. **Codechef** - Practice questions, challenges and a large community of programmers
 3. **CodeProject** - For those who code, with in-depth articles and a huge community of coders
   
+# Final Words
+- Good language to learn, it helps to understand the working of programs and computers in general.
+- It is not a high-level language so learning C++ is overwhelming at first.
